@@ -1,0 +1,95 @@
+main {
+    background-color: #c0c0c0;
+    height: 600px;
+    width: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#virsus{
+    padding: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+#virsus > h1 {
+    height: 50px;
+    background-color: #dfdfdf;
+    color: #64645a;
+    padding-left:20px;
+    padding-top: 20px;
+}
+
+#apacia {
+    padding: 20px;
+    color: rgb(236,246,253);
+    line-height: 30px;
+    padding-top: 0px;
+}
+
+#apacia > p {
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    padding-left:10px;
+}
+
+#vienas {
+    background-color: #0088dd;
+}
+
+#du {
+    background-color: #0095e2;
+}
+
+#trys {
+    background-color: #00a0e6;
+}
+
+#keturi {
+    background-color: #30aae9;
+}
+
+#penki {
+    background-color: #54b6ed;
+}
+
+#sesi {
+    background-color: #72c1f0;
+}
+
+#septyni {
+    background-color: #8ccaf2;
+}
+
+#astuoni {
+    background-color: #00bb88;
+}
+
+#devyni {
+    background-color: #f5b0cc;
+}
+
+#desimt {
+    background-color: #f5b0cc;
+}
+
+#vienuolika {
+    background-color: #f58cb2;
+}
+
+#dvylika {
+    background-color: #f47ba6;
+}
+
+#trylika {
+    background-color: #f36a98;
+}
+
+#keturiuolika {
+    background-color: #f45a8b;
+}
+
+#penkiuolika {
+    background-color: #ee3e80;
+}
+
+
+ 
